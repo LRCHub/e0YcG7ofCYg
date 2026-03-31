@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Angel With a Shotgun",
+  "base_artist": "The Cab",
+  "createdAt": "2026-03-31T06:18:25.711980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel With A Shotgun",
+      "artist": "NightCore",
+      "has_synced": true,
+      "path": "select/01_Angel_With_A_Shotgun_NightCore.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel With A Shotgun",
+      "artist": "Nightcore",
+      "has_synced": true,
+      "path": "select/02_Angel_With_A_Shotgun_Nightcore.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angel With A Shotgun",
+      "artist": "CUTLoveRx",
+      "has_synced": true,
+      "path": "select/03_Angel_With_A_Shotgun_CUTLoveRx.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nightcore - Angel With A Shotgun",
+      "artist": "Nightcore",
+      "has_synced": true,
+      "path": "select/04_Nightcore_-_Angel_With_A_Shotgun_Nightcore.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ericovich - Angel With A Shotgun",
+      "artist": "Ericovich",
+      "has_synced": true,
+      "path": "select/05_Ericovich_-_Angel_With_A_Shotgun_Ericovich.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nightcore - Angel With A Shotgun",
+      "artist": "CUTLoveRx",
+      "has_synced": true,
+      "path": "select/06_Nightcore_-_Angel_With_A_Shotgun_CUTLoveRx.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Angel with a Shotgun",
+      "artist": "The Cab",
+      "has_synced": true,
+      "path": "select/07_Angel_with_a_Shotgun_The_Cab.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Angel With a Shotgun",
+      "artist": "The Cab",
+      "has_synced": true,
+      "path": "select/08_Angel_With_a_Shotgun_The_Cab.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Angel With a Shotgun",
+      "artist": "The Cab",
+      "has_synced": true,
+      "path": "select/09_Angel_With_a_Shotgun_The_Cab.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Angel With a Shotgun",
+      "artist": "The Cab",
+      "has_synced": true,
+      "path": "select/10_Angel_With_a_Shotgun_The_Cab.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Angel With a Shotgun",
+      "artist": "The Cab",
+      "has_synced": true,
+      "path": "select/11_Angel_With_a_Shotgun_The_Cab.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Angel With A Shotgun",
+      "artist": "Turbo",
+      "has_synced": true,
+      "path": "select/12_Angel_With_A_Shotgun_Turbo.lrc"
+    }
+  ]
+}
